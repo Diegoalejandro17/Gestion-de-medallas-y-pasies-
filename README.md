@@ -42,7 +42,7 @@ Aplicación desarrollada para **WorldSkills Colombia – Tecnologías Web**, enf
 
 - 💼 Competidor en WorldSkills Colombia – Tecnologías Web
 - 🌐 [GitHub: @palomaelmejor](https://github.com/palomaelmejor)
-- 📧 diegopalomadiaz@gmail.com *(si deseas mostrar tu correo)*
+- 📧 diegopalomadiaz@gmail.com 
 
 
 ## 🛠️ Instalación y Ejecución
